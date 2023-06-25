@@ -1,0 +1,616 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AwardContainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Note>
+	--------------------------
+	Dude, Stop. Property of Team HalfBeard.
+	DO NOT CHANGE THIS FILE! Make a copy of the whole folder EN and put it next to it, and change words there.
+	DO NOT CHANGE Theme and Index.
+	Comment is for you only - no need to translate them, unless you want to help another translator.
+	--------------------------
+</Note>
+  <EntryList>
+    <AwardEntry index="2">
+      <comment>Schlechter Becher, Becher aus einem Mülleimer</comment>
+      <titleAcquired>Müllbecher</titleAcquired>
+      <titleNotAcquired>Ein Pokal</titleNotAcquired>
+      <descriptionAcquired>Ich schlage vor, du wäschst dir die Hände, nachdem du ihn berührt hast.</descriptionAcquired>
+      <descriptionNotAcquired>Beende das Paket, um ihn zu erhalten.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="68">
+      <comment>Für das dreimalige Abschließen des ersten Pakets</comment>
+      <titleAcquired>Flashback-Pokal</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>Erinnerst du dich an den Moment, als du das erste Paket aus absolut keinem Grund dreimal abgeschlossen hast? Nun, dieser Pokal dient als Erinnerung daran.</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired>Hör auf hierher zu kommen!</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="77">
+      <comment>Halloween-Becher, # - wird durch eine Zahl ersetzt</comment>
+      <titleAcquired>Frucht des Halloween</titleAcquired>
+      <titleNotAcquired>Geist (#) der zukünftigen Halloween</titleNotAcquired>
+      <descriptionAcquired>Gewürz und Latte nicht inbegriffen</descriptionAcquired>
+      <descriptionNotAcquired>Da ist etwas Seltsames
+In der Nachbarschaft...</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="78">
+      <comment>Weihnachtsbecher für Weihnachten</comment>
+      <titleAcquired>Weihnachtsgeschenk</titleAcquired>
+      <titleNotAcquired>Weihnachts-Beutebox</titleNotAcquired>
+      <descriptionAcquired>Enthält alle Dinge in der Welt... außer den Sachen, die du tatsächlich möchtest.</descriptionAcquired>
+      <descriptionNotAcquired>Es kostet nichts und ist trotzdem zu teuer.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="4">
+      <comment>Schlechter Becher, Rostiges Rhombus, kaputt</comment>
+      <titleAcquired>Kaputter Becher</titleAcquired>
+      <titleNotAcquired>Ein Rhombus?</titleNotAcquired>
+      <descriptionAcquired>Wie fühlst du dich, wenn du diese fehlenden Teile siehst und weißt, dass du es niemals lösen kannst? Unbehagen? Stress? Ein kratzender Hals? Das ist gut. Es bedeutet, dass es funktioniert.</descriptionAcquired>
+      <descriptionNotAcquired>Beende das Puzzle, um dies freizuschalten.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="5">
+      <comment>Guter Becher, Goldener Rhombus, den du aus Teilen zusammenfügst</comment>
+      <titleAcquired>Schwedischer Becher</titleAcquired>
+      <titleNotAcquired>B Rhombus!</titleNotAcquired>
+      <descriptionAcquired>Nicht mit Schweden verbunden.</descriptionAcquired>
+      <descriptionNotAcquired>Beende das Puzzle, um dies freizuschalten.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="6">
+      <comment>Schlechter Becher, Winziger Metallbecher</comment>
+      <titleAcquired>Winziger Becher</titleAcquired>
+      <titleNotAcquired>Schlechter Becher</titleNotAcquired>
+      <descriptionAcquired>Es ist völlig in Ordnung, einen kleinen Becher zu haben.</descriptionAcquired>
+      <descriptionNotAcquired>Dies ist nur zu Testzwecken hier.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="7">
+      <comment>Guter Becher, Langer goldener Becher</comment>
+      <titleAcquired>Einer der Länge nach</titleAcquired>
+      <titleNotAcquired>Guter Becher</titleNotAcquired>
+      <descriptionAcquired>Dies sollte dein Selbstwertgefühl stärken.</descriptionAcquired>
+      <descriptionNotAcquired>Hol ihn dir, Tiger!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="30">
+      <comment>Für das zu starke Zerbrechen eines Dominos, Dominostein</comment>
+      <titleAcquired>Domino</titleAcquired>
+      <titleNotAcquired>Domino</titleNotAcquired>
+      <descriptionAcquired>Du hast sie komplett zerstört! Versteh mich nicht falsch - es ist immer noch falsch, es so zu machen, aber trotzdem eine Menge Spaß.</descriptionAcquired>
+      <descriptionNotAcquired>Belohnung für eine Leistung! Geh &lt;b&gt;irgendwohin&lt;/b&gt;, mach &lt;b&gt;etwas&lt;/b&gt; und du wirst es sicherlich bekommen. Verstanden?</descriptionNotAcquired>
+      <shortDescriptionAcquired>Mach den Flip</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="72">
+      <comment>Für das perfekte Aufbringen des Poststempels</comment>
+      <titleAcquired>Seltenster Poststempel</titleAcquired>
+      <titleNotAcquired>Poststempel</titleNotAcquired>
+      <descriptionAcquired>Dein Aufkleben war perfekt!</descriptionAcquired>
+      <descriptionNotAcquired>Leck es ab und kleb es drauf.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="31">
+      <comment>100% schlecht, Holzbecher</comment>
+      <titleAcquired>Holzliga</titleAcquired>
+      <titleNotAcquired>Für das Schlechteste</titleNotAcquired>
+      <descriptionAcquired>Du bist so schlecht, dass du nicht einmal einen Metallpokal verdienst. Hier ist ein Stück Holz.</descriptionAcquired>
+      <descriptionNotAcquired>ZERSTÖRE ALLES!! Rawr!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="32">
+      <comment>100% gut, winziger langer Becher</comment>
+      <titleAcquired>Kleiner Bruder des langen Bechers</titleAcquired>
+      <titleNotAcquired>Für das Beste</titleNotAcquired>
+      <descriptionAcquired>Halbe Größe, doppeltes Ergebnis.</descriptionAcquired>
+      <descriptionNotAcquired>ZERSTÖRE NICHT ALLES!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="22">
+      <comment>Schlechter Becher, Hut aus einem Bistro-Restoran</comment>
+      <titleAcquired>Niedriglohn-Hut</titleAcquired>
+      <titleNotAcquired>"F"</titleNotAcquired>
+      <descriptionAcquired>Der Sortierhut hat gesprochen: McDUFFLEPUFF.</descriptionAcquired>
+      <descriptionNotAcquired>steht für Fehler.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="23">
+      <comment>Guter Becher, Hut von einer Universitätsabschlussfeier</comment>
+      <titleAcquired>Mortib... irgendwas-Hut</titleAcquired>
+      <titleNotAcquired>Ziel der Bildung</titleNotAcquired>
+      <descriptionAcquired>Er fühlt sich schwer an. Wahrscheinlich wegen der erdrückenden Schulden.
+[Europäer werden diesen Witz vielleicht nicht verstehen. Und es ist auch kein Witz. Schickt hu-GEL-darische Hilfe]</descriptionAcquired>
+      <descriptionNotAcquired>Dein Ticket in die Zukunft... Packungen!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="56">
+      <comment>100% schlecht, Schokoladenmedaille</comment>
+      <titleAcquired>Eine Medaille mit Rosinen</titleAcquired>
+      <titleNotAcquired>Verlorene Sache</titleNotAcquired>
+      <descriptionAcquired>Etwas zum Essen für dich, anstatt Klebstoff.</descriptionAcquired>
+      <descriptionNotAcquired>Booooorn to beee duUUUumb!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="63">
+      <comment>Packung in 15 Sekunden abschließen, Goldener Stern</comment>
+      <titleAcquired>Weg in 20 Sekunden</titleAcquired>
+      <titleNotAcquired>Keine Zeit für Erklärungen</titleNotAcquired>
+      <descriptionAcquired>Du hast sie schneller übersprungen als jede Lizenzvereinbarung.</descriptionAcquired>
+      <descriptionNotAcquired>Los geht's, rein und raus, zwanzig Sekunden Prüfung!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="10">
+      <comment>Schlechter Becher, Becher mit Spoiler-Text</comment>
+      <titleAcquired>Spoiler-Becher</titleAcquired>
+      <titleNotAcquired>Ein unerwünschtes Geschenk</titleNotAcquired>
+      <descriptionAcquired>Ein Geschenk, das immer weitergibt.
+
+Übrigens, &lt;color=white&gt;!! SPOILER-WARNUNG !!&lt;/color&gt;</descriptionAcquired>
+      <descriptionNotAcquired>Du wirst es niemals kommen sehen.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="11">
+      <comment>Guter Becher, Becher aus Einzelteilen</comment>
+      <titleAcquired>Blockiger Becher</titleAcquired>
+      <titleNotAcquired>Blockiger Becher</titleNotAcquired>
+      <descriptionAcquired>Bau ihn selbst. Und keine Sorge, das ist kein Wettbewerb.
+
+Oder etwa doch?</descriptionAcquired>
+      <descriptionNotAcquired>Eine verdächtige Form. Was könnte es sein?</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="33">
+      <comment>Für das Schneiden einer Pizza in 11 Stücke, Becher ist ein Pizzaroller</comment>
+      <titleAcquired>Elf</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>Du hast 11 Stücke in 4 Schnitten gemacht. Bist du ein mathematisches Genie oder so? Oder einfach ein Pizza-Samurai.</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="34">
+      <comment>100% schlecht, Haustierfelsen</comment>
+      <titleAcquired>Der Fels</titleAcquired>
+      <titleNotAcquired>Schlechter Becher 2: Die Rückkehr des Schlechten</titleNotAcquired>
+      <descriptionAcquired>Es gibt viele Arten von Haustierfelsen: harte Felsen, Glamourfelsen, weiche Felsen... und keiner von ihnen ist ein Mineral!</descriptionAcquired>
+      <descriptionNotAcquired>Wie eine kaputte Schallplatte...</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="35">
+      <comment>100% gut, langweilig golden</comment>
+      <titleAcquired>Goldener Becher</titleAcquired>
+      <titleNotAcquired>Pur gut</titleNotAcquired>
+      <descriptionAcquired>Gold ist ein chemisches Element mit dem Symbol Au und der Ordnungszahl 79. In seiner reinsten Form ist es ein helles, leicht rötlich-gelbes, dichtes, weiches, verformbares und duktiles Metall.</descriptionAcquired>
+      <descriptionNotAcquired>Das Beste vom Besten vom Allerbesten</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="73">
+      <comment>Stifte umgedreht aufstellen</comment>
+      <titleAcquired>Weiße Stifte</titleAcquired>
+      <titleNotAcquired>The Upside Down</titleNotAcquired>
+      <descriptionAcquired>Es ist wie eine Schachtel Pralinen - man weiß nie, was man bekommt. Außer einen Stift. Weiß, nutzlos und überhaupt nicht lecker. Manchmal auf dem Kopf.</descriptionAcquired>
+      <descriptionNotAcquired>Umgekehrtes Stapeln</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="64">
+      <comment>Für das Abschneiden der Rinde, Becher ist eine Ananas</comment>
+      <titleAcquired>RIINDEE ISSS LAAAVAAA!</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>Iss sie.</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="65">
+      <comment>Schneide die Pizza und vermeide alle Fleischstücke, Becher ist eine Pizzastückkette</comment>
+      <titleAcquired>Ich wünsche dir keinen Schinken</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>Spiel nicht Minenräumer mit deinem Essen! Oder ist es Salamiräumer? DING!</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="66">
+      <comment>Pizza-Achievements erhalten (keine tatsächlichen Erfolge, schreibe nur etwas über Pizza)</comment>
+      <titleAcquired>Pizzamanie</titleAcquired>
+      <titleNotAcquired>Pizzamanie</titleNotAcquired>
+      <descriptionAcquired />
+      <descriptionNotAcquired>Ergreife den Käse!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="12">
+      <comment>Schlechter Becher, Haufen von Zitronen</comment>
+      <titleAcquired>Zitronenhaufen</titleAcquired>
+      <titleNotAcquired>Plan B</titleNotAcquired>
+      <descriptionAcquired>Auf einer Skala von A bis F erhältst du eine gesunde Dosis Vitamin C.</descriptionAcquired>
+      <descriptionNotAcquired>Falls alles schief geht.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="13">
+      <comment>Guter Becher, Schokoladenkuchen</comment>
+      <titleAcquired>Kuchenbecher</titleAcquired>
+      <titleNotAcquired>Sieht aus wie ein Kuchen</titleNotAcquired>
+      <descriptionAcquired>Mmmmm... Kuchen!</descriptionAcquired>
+      <descriptionNotAcquired>Ich frage mich, ob es ein Schokoladenkuchen ist? Oder ein Eisbecher?
+Löse alles, um es herauszufinden!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="36">
+      <comment>Alle Katzenpuzzle gut, Becher ist ein Mäusespielzeug</comment>
+      <titleAcquired>Quietschende Maus</titleAcquired>
+      <titleNotAcquired>Quietschbecher</titleNotAcquired>
+      <descriptionAcquired>Verwöhne deine brave Katze, indem du ihr eine Plüschmaus gibst!
+
+Also, ich meine, ich hoffe, es ist eine Plüschmaus... bitte lass es eine Plüschmaus sein!
+(Für Freundlichkeit in allen Katzenpuzzles)</descriptionAcquired>
+      <descriptionNotAcquired>Ein Spielzeug für eine brave Katze.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="37">
+      <comment>Alle Hunde-Puzzles erfolgreich, Becher ist ein Knochen</comment>
+      <titleAcquired>Knochen</titleAcquired>
+      <titleNotAcquired>Die Belohnung</titleNotAcquired>
+      <descriptionAcquired>Einen guten Appetit!
+(Für nettes Verhalten in allen Hunde-Puzzles)</descriptionAcquired>
+      <descriptionNotAcquired>Wer ist ein braver Hund? Wer ist ein braver Hund?</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="38">
+      <comment>Alle Hunde-Puzzles erfolglos, sieht aus wie ein Halskragen für einen Hund</comment>
+      <titleAcquired>Schamkragen</titleAcquired>
+      <titleNotAcquired>Die Strafe</titleNotAcquired>
+      <descriptionAcquired>Für dich ganz allein... schlecht!
+(Für schlechtes Abschneiden in allen Hunde-Puzzles)</descriptionAcquired>
+      <descriptionNotAcquired>Braver Hund! Kein Leckerli!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="39">
+      <comment>Alle Katzen-Puzzles erfolglos, Becher ist eine Wassersprühflasche</comment>
+      <titleAcquired>Wasserspray</titleAcquired>
+      <titleNotAcquired>Ein Flaschenbecher</titleNotAcquired>
+      <descriptionAcquired>Besprühe heute deine Katzen!
+Für den unschlagbaren Preis von ruinierten Puzzles darfst du dein Tier bestrafen!
+(Für schlechtes Abschneiden in allen Katzen-Puzzles)</descriptionAcquired>
+      <descriptionNotAcquired>Füge das fehlende Wort ein:
+Wenn Katzen böse sind, _____ _____ _____ .</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="40">
+      <comment>Nasse Katze auf einem Buch</comment>
+      <titleAcquired>Tröpfelnde Katze</titleAcquired>
+      <titleNotAcquired>Etwas-etwas Katze</titleNotAcquired>
+      <descriptionAcquired>Zwei Tassen Wasser, eine Katze und voilà. Aber nicht mehr als zwei voilà.
+[Keine Tiere wurden bei der Erstellung dieses Videospiels verletzt. Außer Hühnchen. Leckeres-leckeres Hühnchen.]</descriptionAcquired>
+      <descriptionNotAcquired>Wenn du zur falschen Zeit am falschen Ort bist.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="14">
+      <comment>Schlechter Becher, D.U.C.K.</comment>
+      <titleAcquired>D.U.C.K.</titleAcquired>
+      <titleNotAcquired>Unglücklicher Becher</titleNotAcquired>
+      <descriptionAcquired>Quack.</descriptionAcquired>
+      <descriptionNotAcquired>Wenn das Glück nicht auf deiner Seite ist und du ABSICHTLICH anfängst zu verlieren.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="15">
+      <comment>Guter Becher, Becher mit Süßigkeiten</comment>
+      <titleAcquired>Süßigkeitenbecher</titleAcquired>
+      <titleNotAcquired>Süßigkeiten</titleNotAcquired>
+      <descriptionAcquired>Süßes, süßes Gefühl des Sieges.</descriptionAcquired>
+      <descriptionNotAcquired>Nur brave Kinder bekommen das.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="41">
+      <comment>100% gut, Eiscreme</comment>
+      <titleAcquired>ICH SCHREIE </titleAcquired>
+      <titleNotAcquired>Überraschungssüßigkeiten</titleNotAcquired>
+      <descriptionAcquired>Keine Sorge, es schmilzt nicht - es besteht aus Pixelstaub!</descriptionAcquired>
+      <descriptionNotAcquired>Es wird mit einem Liedchen in der Hitze vorbeifahren.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="42">
+      <comment>100% schlecht, Sachen aus den Taschen</comment>
+      <titleAcquired>Alles, was du verdienst</titleAcquired>
+      <titleNotAcquired>Alles, was ich hatte</titleNotAcquired>
+      <descriptionAcquired>Eine Münze, ein alter Zahnstocher und etwas Bauchnabelflusen.</descriptionAcquired>
+      <descriptionNotAcquired>Sieht viel aus, aber erwarte nicht viel.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="43">
+      <comment>Hundert Fotos von Katzen</comment>
+      <titleAcquired>Katzenbild</titleAcquired>
+      <titleNotAcquired>Klick 3000</titleNotAcquired>
+      <descriptionAcquired>Schau dir meine Katze an, meine Katze ist erstaunlich</descriptionAcquired>
+      <descriptionNotAcquired>"Hör mich jetzt nicht auf,
+Ich möchte überhaupt nicht aufhören"</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="16">
+      <comment>Schlechter Becher, Alter Schuh</comment>
+      <titleAcquired>Alter stinkender Schuh</titleAcquired>
+      <titleNotAcquired>Schnell und stinkig</titleNotAcquired>
+      <descriptionAcquired>Bringt so viele Erinnerungen... und einen wilden Gestank mit sich.</descriptionAcquired>
+      <descriptionNotAcquired>Du kannst erraten, was du sein musst, um ihn zu bekommen - gut oder schlecht</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="17">
+      <comment>Guter Becher, Turbo-Schnecke</comment>
+      <titleAcquired>TURBO-SCHNECKE</titleAcquired>
+      <titleNotAcquired>Das Beste vom Schlechtesten</titleNotAcquired>
+      <descriptionAcquired>Wörtlich genau das.</descriptionAcquired>
+      <descriptionNotAcquired>...was könnte es sein?! Sei gut, um es herauszufinden!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="44">
+      <comment>100% gut, Großer Blitz</comment>
+      <titleAcquired>Blitz</titleAcquired>
+      <titleNotAcquired>Ein Becher</titleNotAcquired>
+      <descriptionAcquired>Manchmal ist es gut, der Schnellste zu sein.</descriptionAcquired>
+      <descriptionNotAcquired>Sieht seltsamerweise wie ein Blitz aus.
+(Jeder Durchlauf hat unterschiedliche Rätsel)</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="45">
+      <comment>100% schlecht, Gegenstände, die schnell kaputt gehen. Andere Texte sind in einer WORDS-Datei (SLOWRAPID_CUP)</comment>
+      <titleAcquired>Schnell und falsch</titleAcquired>
+      <titleNotAcquired>Schnell und falsch</titleNotAcquired>
+      <descriptionAcquired />
+      <descriptionNotAcquired>Normalerweise gewinnt langsam und stetig das Spiel, aber ich nehme an, das gilt nicht für dich.
+(Jeder Durchlauf hat unterschiedliche Rätsel)</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="46">
+      <comment>Kaputer Aufzug, sieht aus wie Treppen</comment>
+      <titleAcquired>Treppen</titleAcquired>
+      <titleNotAcquired>Kaputt</titleNotAcquired>
+      <descriptionAcquired>Von jetzt an geht jemand zu Fuß.</descriptionAcquired>
+      <descriptionNotAcquired>AUSSER BETRIEB</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="74">
+      <comment>Schnur von einer Jackenkapuze, dafür dass du sie ausziehst</comment>
+      <titleAcquired>Die Schnur</titleAcquired>
+      <titleNotAcquired>Die Jacke</titleNotAcquired>
+      <descriptionAcquired>Und du kannst sie nicht wieder reinstecken.</descriptionAcquired>
+      <descriptionNotAcquired>Keine Verpflichtungen.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="67">
+      <comment>Alle Rätsel in einem Paket sehen, sieht aus wie ein Auge</comment>
+      <titleAcquired>Ich habe alles gesehen</titleAcquired>
+      <titleNotAcquired>Alles-sehender Becher</titleNotAcquired>
+      <descriptionAcquired>Du kennst jede Ecke hier. Du besitzt im Grunde genommen den Ort.</descriptionAcquired>
+      <descriptionNotAcquired>Rund um die Welt</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="18">
+      <comment>Schlechter Becher, Klaue</comment>
+      <titleAcquired>Die Klaue</titleAcquired>
+      <titleNotAcquired>Geheimnisvolle Schurkin</titleNotAcquired>
+      <descriptionAcquired>Die Klaue ist dein Meister, sie wird entscheiden, wer gut und wer böse ist. Und du kennst bereits das Urteil.</descriptionAcquired>
+      <descriptionNotAcquired>Du wirst es nicht einmal kommen sehen.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="19">
+      <comment>Guter Becher, Robocup</comment>
+      <titleAcquired>Robocup</titleAcquired>
+      <titleNotAcquired>Augmentierter Becher</titleNotAcquired>
+      <descriptionAcquired>Weil wir uns nur so nahe an Urheberrechtsverletzungen heranwagen können.</descriptionAcquired>
+      <descriptionNotAcquired>Diese Becher könnten beschädigt sein, aber wir können sie wieder aufbauen.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="47">
+      <comment>100% böse, Milch und Kekse</comment>
+      <titleAcquired>Für immer trocken</titleAcquired>
+      <titleNotAcquired>Frustrierender Becher</titleNotAcquired>
+      <descriptionAcquired>Du wirst ihn nie nass machen können.</descriptionAcquired>
+      <descriptionNotAcquired>Das willst du nicht. Du denkst, du willst es, aber du willst es nicht.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="48">
+      <comment>100% gut, Kekse</comment>
+      <titleAcquired>Haufen von Keksen</titleAcquired>
+      <titleNotAcquired>Süßer Sieg</titleNotAcquired>
+      <descriptionAcquired>Um deinen süßen Zahn zu befriedigen.</descriptionAcquired>
+      <descriptionNotAcquired>Haufen von Leckereien.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="49">
+      <comment>Nur ein Teil waschen</comment>
+      <titleAcquired>Manueller Wascher</titleAcquired>
+      <titleNotAcquired>Verwaschen!</titleNotAcquired>
+      <descriptionAcquired>Mach weiter mit dem Waschen (he-he) von Wasser, und der nächste Becher wird ein Stein an einem Fluss sein.</descriptionAcquired>
+      <descriptionNotAcquired>Verantwortungsbewusst laden.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="50">
+      <comment>In 31 Zügen</comment>
+      <titleAcquired>Perfektes 31</titleAcquired>
+      <titleNotAcquired>Perfecto?</titleNotAcquired>
+      <descriptionAcquired>Es ist, als hättest du genau gewusst, wie man es richtig löst. Verdächtig.</descriptionAcquired>
+      <descriptionNotAcquired>Nur Kinder aus den 90er Jahren werden es verstehen. Und die 00er Jahre. Und alle anderen. Im Grunde jeder, der die Regeln kennt.</descriptionNotAcquired>
+      <shortDescriptionAcquired>Vollkommenheit.</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="51">
+      <comment>In weniger als 10 Zügen</comment>
+      <titleAcquired>Ein Betrüger?!</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>Wie hast du das überhaupt geschafft?! Weniger als 10 Züge?! Unmöglich!</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired>
+                 Ja</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="52">
+      <comment>Richtige Reihenfolge, und das Große war nie auf dem Kleinen</comment>
+      <titleAcquired>Reihenfolge zählt</titleAcquired>
+      <titleNotAcquired>Technischer Sieg</titleNotAcquired>
+      <descriptionAcquired>Und das war die einzige Regel, die du beschlossen hast zu befolgen, heh?</descriptionAcquired>
+      <descriptionNotAcquired>Mach es einfach früher oder später.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="20">
+      <comment>Schlechter Becher, Kartoffel</comment>
+      <titleAcquired>Kartoffel</titleAcquired>
+      <titleNotAcquired>Gemüse</titleNotAcquired>
+      <descriptionAcquired>Du kannst sie kochen, braten, backen, schneiden... oh warte, das kannst du nicht! HAHAHAHAHAHA*
+
+*Definitiv kein gefälschtes Lachen</descriptionAcquired>
+      <descriptionNotAcquired>Nicht einmal ein Obst! Einfach ein langweiliges Gemüse.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="21">
+      <comment>Guter Becher, goldene Schachtel</comment>
+      <titleAcquired>Kramkiste</titleAcquired>
+      <titleNotAcquired>Item-Manie</titleNotAcquired>
+      <descriptionAcquired>Warte. Kein Kram! Erinnerungen!</descriptionAcquired>
+      <descriptionNotAcquired>Für die HOaRDErer!!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="53">
+      <comment>100% schlecht, </comment>
+      <titleAcquired>Sinnloser Becher</titleAcquired>
+      <titleNotAcquired>Überflüssiger Becher</titleNotAcquired>
+      <descriptionAcquired>Es war nicht nötig, aber du hast es trotzdem getan. &lt;b&gt;Herzlichen Glückwunsch&lt;/b&gt; zu deiner Zeitverschwendung an einem schlecht gezeichneten Sammlerstück!</descriptionAcquired>
+      <descriptionNotAcquired>Du brauchst es überhaupt nicht. 
+Einfach überspringen. 
+Du wirst auch ohne es gut zurechtkommen, versprochen.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="54">
+      <comment>100% gut, goldener Stift</comment>
+      <titleAcquired>Der Goldene Stift</titleAcquired>
+      <titleNotAcquired>Inventar-Meister</titleNotAcquired>
+      <descriptionAcquired>Etwas, um nach Hause zu schreiben.</descriptionAcquired>
+      <descriptionNotAcquired>Dieses Gefühl, wenn du wie ein Profi mit Gegenständen jonglierst und dafür belohnt wirst.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="55">
+      <comment>Alle Bilder in der richtigen Reihenfolge, der Becher ist ein Kinderbild</comment>
+      <titleAcquired>Kinderbilder</titleAcquired>
+      <titleNotAcquired>"Sieht gut aus"</titleNotAcquired>
+      <descriptionAcquired>Du magst sie zwar nicht, aber du kannst sie auch nicht wegwerfen.</descriptionAcquired>
+      <descriptionNotAcquired>Die Lügen, die wir unseren Kindern erzählen...</descriptionNotAcquired>
+      <shortDescriptionAcquired>Es ist ein ganz normales Bild.</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="24">
+      <comment>Schlechter Becher, Monsterbecher</comment>
+      <titleAcquired>Monsterbecher</titleAcquired>
+      <titleNotAcquired>Der Horror</titleNotAcquired>
+      <descriptionAcquired>Er starrt in deine Seele... und eine Seele hinter dir.</descriptionAcquired>
+      <descriptionNotAcquired>Ich flehe dich an!! Nicht so!! Ich bin zu jung, um zu verlieren!! AAAAAAAAAAAAAAaaaaaaaaaa&lt;size=16&gt;aaaaaaaaaaaaaa&lt;/size&gt;</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="25">
+      <comment>Guter Becher, Heiliger Gral</comment>
+      <titleAcquired>Heiliger Gral</titleAcquired>
+      <titleNotAcquired>Der Alte</titleNotAcquired>
+      <descriptionAcquired>Du hast dich als würdig erwiesen.</descriptionAcquired>
+      <descriptionNotAcquired>Versteckt hinter Rätseln und Staub.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="58">
+      <comment>100% schlecht, Rostiger Metallbecher</comment>
+      <titleAcquired>Rostiger Becher</titleAcquired>
+      <titleNotAcquired>Alter Schrott</titleNotAcquired>
+      <descriptionAcquired>Hey, psst, Kind, komm näher. Willst du etwas Tetanus?</descriptionAcquired>
+      <descriptionNotAcquired>Weil du es wert bist.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="59">
+      <comment>100% gut, Goldener Becher</comment>
+      <titleAcquired>Noch ein Goldener Becher</titleAcquired>
+      <titleNotAcquired>Goldene Güter</titleNotAcquired>
+      <descriptionAcquired>Noch eine nutzlose Beschreibung.</descriptionAcquired>
+      <descriptionNotAcquired>Meine Vorstellungskraft endet hier.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="60">
+      <comment>Schokoladencreme</comment>
+      <titleAcquired>Totes Brot</titleAcquired>
+      <titleNotAcquired>Albtraum in der Süßigkeitenstraße</titleNotAcquired>
+      <descriptionAcquired>Es wird dich für immer verfolgen.</descriptionAcquired>
+      <descriptionNotAcquired>"...Sie betrat den Raum, und da stand er - ohne Messer, schockiert und entsetzt, schaute er auf das, was er getan hatte..."</descriptionNotAcquired>
+      <shortDescriptionAcquired>Nett, dich kennenzulernen!</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="26">
+      <comment>Schlechter Becher, Golden, Text #17</comment>
+      <titleAcquired>Wertschätzungsauszeichnung</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>Danke, Tester #17, dass du an der kostenpflichtigen Testversion des Spiels Dude, Stop teilgenommen hast. Du hast es &lt;color=red&gt;SCHLECHT&lt;/color&gt; gemacht... aber zumindest hast du es versucht.</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="76">
+      <comment>Kann gleich sein wie Becher #69</comment>
+      <titleAcquired>Finaler Becher</titleAcquired>
+      <titleNotAcquired>Finaler Becher</titleNotAcquired>
+      <descriptionAcquired />
+      <descriptionNotAcquired>Spiel vorbei, Alter! Spiel vorbei!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="27">
+      <comment>Guter Becher, Schatztruhe mit Gold</comment>
+      <titleAcquired>Schatztruhe</titleAcquired>
+      <titleNotAcquired>Voller Belohnungen</titleNotAcquired>
+      <descriptionAcquired>Vom Grund aufgestiegen, jetzt ist sie hier.</descriptionAcquired>
+      <descriptionNotAcquired>Mehr als du dir vorstellen kannst.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="61">
+      <comment>100% schlecht, Wütende Kaktusse</comment>
+      <titleAcquired>Wütender Becher</titleAcquired>
+      <titleNotAcquired>Letzter Tropfen</titleNotAcquired>
+      <descriptionAcquired>Von einem wütenden Entwickler. Iss ihn.</descriptionAcquired>
+      <descriptionNotAcquired>Sei brav oder drücke einfach Alt-F4 hier.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="62">
+      <comment>100% gut, langweilig goldener</comment>
+      <titleAcquired>Das letzte Gold</titleAcquired>
+      <titleNotAcquired>Letzter Schub</titleNotAcquired>
+      <descriptionAcquired>Du kannst dich jetzt in Gold duschen.</descriptionAcquired>
+      <descriptionNotAcquired>Habe den Mut, erlange den Ruhm.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="70">
+      <comment>Verschwommenes Bild</comment>
+      <titleAcquired>Tief hängende Frucht</titleAcquired>
+      <titleNotAcquired>Große Zahlen</titleNotAcquired>
+      <descriptionAcquired>Ha-ha, sehr witzig.
+...
+Verschwinde.</descriptionAcquired>
+      <descriptionNotAcquired>Der älteste Trick im Buch.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="71">
+      <comment>Baum auf dem Kopf</comment>
+      <titleAcquired>Australische Weihnachten</titleAcquired>
+      <titleNotAcquired>The Upside Down</titleNotAcquired>
+      <descriptionAcquired>Kumpel.</descriptionAcquired>
+      <descriptionNotAcquired>Urlaub, aber andersherum.</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="69">
+      <comment>Nur Text, kein Becher</comment>
+      <titleAcquired>Finaler Pokal</titleAcquired>
+      <titleNotAcquired>Finaler Pokal</titleNotAcquired>
+      <descriptionAcquired />
+      <descriptionNotAcquired>Spiel vorbei, Alter! Spiel vorbei!</descriptionNotAcquired>
+      <shortDescriptionAcquired />
+    </AwardEntry>
+    <AwardEntry index="75">
+      <comment>Geheimer Erfolg, wenn du das Spiel beendest</comment>
+      <titleAcquired>Geheime Tür</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired />
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired>Bist gegangen, als es darauf ankam.</shortDescriptionAcquired>
+    </AwardEntry>
+    <AwardEntry index="28">
+      <comment>Wenn du alle 60+ Becher im Spiel sammelst</comment>
+      <titleAcquired>Vervollständiger</titleAcquired>
+      <titleNotAcquired />
+      <descriptionAcquired>Herzlichen Glückwunsch! Du bist den extra Kilometer gegangen, um den Entwickler und jeden um dich herum zu ärgern. Solcher Fleiß. Sehr heldenhaft. Viel wow. *langsamer Applaus*
+(Für das Freischalten jedes Bechers im Spiel)</descriptionAcquired>
+      <descriptionNotAcquired />
+      <shortDescriptionAcquired />
+    </AwardEntry>
+  </EntryList>
+</AwardContainer>
