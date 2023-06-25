@@ -9,8 +9,7 @@ Um die Übersetzung zu installieren, folge bitte den untenstehenden Schritten:
 1. Lade die neueste Version des Projekts herunter.
 2. Navigiere zum Installationsverzeichnis des Spiels "Dude, Stop!".
 3. Öffne den Ordner "Localization".
-4. Erstelle den Ordner "DE", falls er noch nicht vorhanden ist.
-5. Kopiere die heruntergeladenen .xml-Dateien in den neu erstellten Ordner "DE".
+5. Kopiere den heruntergeladenen Ordner "DE" in den Spieleordner "Localization".
 6. Starte das Spiel "Dude, Stop!".
 7. Gehe zu den Einstellungen im Spiel und stelle die Sprache auf Deutsch ein.
 
@@ -18,7 +17,7 @@ Nachdem du diese Schritte abgeschlossen hast, ist die Übersetzung installiert u
 
 ## Aktueller Status
 
-Der aktuelle Stand der Dateien ist wie folgt:
+Der aktuelle Stand der Übersetzung lautet wie folgt:
 
 - Awards.xml: 100%
 - Texts.xml : 100%
