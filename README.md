@@ -21,7 +21,7 @@ Der aktuelle Stand der Übersetzung lautet wie folgt:
 
 - Awards.xml: 100%
 - Texts.xml : 100%
-- Voices.xml:  29%
+- Voices.xml:  32%
 
 Wir arbeiten kontinuierlich daran, die Übersetzung zu vervollständigen und weitere Fortschritte zu erzielen.
 

@@ -7,7 +7,7 @@
 	DO NOT CHANGE GUID and Subtitles ID.
 	Comment is for you only - no need to translate them, unless you want to help another translator.
 
-  Translated until Line 3984
+  Translated until Line 4472
 	--------------------------
 </Note>
   <EntryList>
@@ -3985,48 +3985,48 @@ Vergiss nur nicht, danach aufzuräumen.</Text>
     <VoiceEntry GUID="f5489d20-8fb0-659c-91d3-cc2d9e2862b6" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Hey, you dropped one!</Text>
+          <Text>Hey, du hast eins fallen lassen!</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
           <Text>Orrrrrrr...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>Was that ON PURPOSE?!</Text>
+          <Text>War das ABSICHTLICH?!</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>I hope you
-step on it</Text>
+          <Text>Ich hoffe,
+du trittst drauf</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="bf4a5bed-b6de-f339-9161-b6917f9ef7d4" AllowedEndingType="GoodOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>I'm sure your room is as tidy in real life, too? Right?...</Text>
+          <Text>Ich bin sicher, dein Zimmer ist im echten Leben genauso aufgeräumt, oder? Richtig?...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>Right?</Text>
+          <Text>Richtig?</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Right?</Text>
+          <Text>Richtig?</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="fd37f621-4605-8133-4875-bc36166a5aed" AllowedEndingType="GoodOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Your conscience is clean.
-Also, your room.</Text>
+          <Text>Dein Gewissen ist rein.
+Auch dein Zimmer.</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Cleaning is fun
-(said no one ever)</Text>
+          <Text>Putzen macht Spaß
+(sagt niemand jemals)</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
@@ -4034,30 +4034,30 @@ Also, your room.</Text>
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>One little
-World of pain</Text>
+          <Text>Eine kleine
+Welt voller Schmerzen</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>Small step for a man
-A giant leap...
-Backwards
-And screams
-Of pain</Text>
+          <Text>Kleiner Schritt für einen Mann
+Ein großer Sprung...
+Rückwärts
+Und Schreie
+Des Schmerzes</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Everything 
-has its place</Text>
+          <Text>Alles
+hat seinen Platz</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Clean freak</Text>
+          <Text>Putzteufel</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="21c19428-990a-f171-94d6-da049cb59146" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>*cough* What?
-What's this supposed to be?</Text>
+          <Text>*hust* Was?
+Was soll das hier sein?</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -4065,10 +4065,10 @@ What's this supposed to be?</Text>
     <VoiceEntry GUID="cb6113b8-1b51-c3a9-ae86-5d2579614293" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Okay, a tower.</Text>
+          <Text>Okay, ein Turm.</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>Not impressed.</Text>
+          <Text>Nicht beeindruckend.</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -4076,7 +4076,7 @@ What's this supposed to be?</Text>
     <VoiceEntry GUID="d479070a-11aa-9818-f93b-fa6d01d8b30a" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>...ARGGH! I stepped on something!</Text>
+          <Text>...ARGH! Ich habe auf etwas getreten!</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -4084,16 +4084,16 @@ What's this supposed to be?</Text>
     <VoiceEntry GUID="74e5f371-d113-0b3c-e006-d3b0d473b1c8" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>You can stack, you can clean.</Text>
+          <Text>Du kannst stapeln, du kannst aufräumen.</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>But can.</Text>
+          <Text>Aber kannst du.</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="2">
-          <Text>You.</Text>
+          <Text>Dich.</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="3">
-          <Text>Cut?</Text>
+          <Text>Schneiden?</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -4101,8 +4101,8 @@ What's this supposed to be?</Text>
     <VoiceEntry GUID="10c8f62e-dab1-19f4-e983-61ea3e430094" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>It's a pizza.
-Surely there's nothing you can ruin in a pizza? </Text>
+          <Text>Es ist eine Pizza.
+Sicherlich gibt es nichts, was du an einer Pizza ruinieren kannst, oder?</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -4110,8 +4110,8 @@ Surely there's nothing you can ruin in a pizza? </Text>
     <VoiceEntry GUID="e43ce888-1177-0330-31a7-0c3d2f727d0b" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Here's another order.
-Cut this one, too.</Text>
+          <Text>Hier ist noch eine Bestellung.
+Schneide auch diese.</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -4119,7 +4119,7 @@ Cut this one, too.</Text>
     <VoiceEntry GUID="ab722686-3f76-99a4-bb33-d02f39ce3ca8" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Imagine you have eight friends and they all want a slice!</Text>
+          <Text>Stell dir vor, du hast acht Freunde und sie alle wollen ein Stück!</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -4127,80 +4127,80 @@ Cut this one, too.</Text>
     <VoiceEntry GUID="afe6820c-41c8-2615-f289-4940eacb8b20" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Maybe you also want to add pineapples,
-you freak?! </Text>
+          <Text>Vielleicht möchtest du auch Ananas hinzufügen,
+du Freak?! </Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
           <Text>Huh
-Will it blend?</Text>
+Wird es sich vermischen?</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="c6c69318-703f-2a97-3201-e241184465cb" AllowedEndingType="GoodOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>If you're vegetarian,
-you can imagine that red circles are tomatoes.</Text>
+          <Text>Wenn du Vegetarier bist,
+kannst du dir vorstellen, dass die roten Kreise Tomaten sind.</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>And the dough
-Is gluten free</Text>
+          <Text>Und der Teig
+ist glutenfrei.</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="e3b5bc2a-66dc-00e6-51d4-21789eabd59d" AllowedEndingType="GoodOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>I bet you're gonna eat it all by yourself!</Text>
+          <Text>Ich wette, du wirst es ganz alleine essen!</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Bon Appétit</Text>
+          <Text>Guten Appetit!</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="12d271e2-aa67-5ad4-e16b-4267166eacbc" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>That meat is a symbol of all the problems in your life.</Text>
+          <Text>Das Fleisch ist ein Symbol für all die Probleme in deinem Leben.</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>STOP AVOIDING IT!</Text>
+          <Text>HÖR AUF, ES ZU VERMEIDEN!</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>Can't touch it</Text>
+          <Text>Kann es nicht berühren</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="0ae6eb25-53b6-ffc9-f51c-e9fc3d2b0fd0" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Ok, I'll take the middle piece, then.</Text>
+          <Text>Okay, dann nehme ich das mittlere Stück.</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>You take the crust</Text>
+          <Text>Du nimmst den Rand.</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="e5797b09-65a3-e8b3-3830-6456ecb15ab2" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Woah, 11 pieces!
-I'm not even mad, that's amazing!</Text>
+          <Text>Wow, 11 Stücke!
+Ich bin nicht einmal sauer, das ist erstaunlich!</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>Maximum effort</Text>
+          <Text>Maximale Anstrengung</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
@@ -4208,32 +4208,32 @@ I'm not even mad, that's amazing!</Text>
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>Why not squares
-next time</Text>
+          <Text>Warum nicht Quadrate
+nächstes Mal</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>And the biggest piece
-is for you?</Text>
+          <Text>Und das größte Stück
+ist für dich?</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Like a sun!
-Tasty, tasty sun</Text>
+          <Text>Wie eine Sonne!
+Lecker, leckere Sonne</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Eat
-play
-Wash your hands</Text>
+          <Text>Essen
+spielen
+Hände waschen</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="4f21b4de-5f8c-601b-e11d-868d1390f03a" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>You know like in a restaurant after food
-kids get crayons to draw?... </Text>
+          <Text>Du kennst das, wie in einem Restaurant,
+nach dem Essen bekommen Kinder Buntstifte zum Malen?...</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>Well, your job is to put it all back!</Text>
+          <Text>Nun, deine Aufgabe ist es, alles wieder hinzulegen!</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -4241,8 +4241,8 @@ kids get crayons to draw?... </Text>
     <VoiceEntry GUID="1dfbcc55-9eac-2623-b83f-7ec90b7d32d2" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Another puzzle about putting stuff in the boxes!
-It's like a theme here.</Text>
+          <Text>Noch ein Rätsel, bei dem man Sachen in Kisten packen muss!
+Es ist wie ein wiederkehrendes Thema hier.</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -4250,8 +4250,8 @@ It's like a theme here.</Text>
     <VoiceEntry GUID="4a36a191-2c4b-57a2-3cf3-3112c2728348" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>What the "S" stands for?
-It's not an "S", in our game it means 5.</Text>
+          <Text>Wofür steht das "S"?
+Es ist kein "S", in unserem Spiel bedeutet es 5.</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -4259,53 +4259,53 @@ It's not an "S", in our game it means 5.</Text>
     <VoiceEntry GUID="8c82174e-6ea2-dc73-cf62-64123b01c1ec" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Ha-ha, you just cleaned the mess that I made!</Text>
+          <Text>Hahaha, du hast gerade das Durcheinander aufgeräumt, das ich verursacht habe!</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>*wink*</Text>
+          <Text>*zwinker*</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="e2257b44-dd52-ee2b-4ee6-2500f77f461c" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>If only they would be one color
-so you couldn't mess that up.</Text>
+          <Text>Wenn sie doch nur eine Farbe hätten,
+damit du das nicht durcheinander bringen könntest.</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>For example
-White</Text>
+          <Text>Zum Beispiel
+Weiß</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="85031af8-5ac1-aa38-eb00-7af0e7469a6a" AllowedEndingType="GoodOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>I know you wanted to draw something fun,
-but don't worry!</Text>
+          <Text>Ich weiß, du wolltest etwas Lustiges zeichnen,
+aber keine Sorge!</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>It'll be possible later in the game!</Text>
+          <Text>Das wird später im Spiel möglich sein!</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>I like drawing!</Text>
+          <Text>Ich mag zeichnen!</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="b732c57f-18e6-20a3-bbc5-e8fca63ae986" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>You've just doubled down on naughty
-and deserve some extra coal.</Text>
+          <Text>Du hast gerade deine Schelmenhaftigkeit verdoppelt
+und verdienst etwas extra Kohle.</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>Except we're out of coal.</Text>
+          <Text>Aber leider haben wir keine Kohle mehr.</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
@@ -4317,13 +4317,13 @@ and deserve some extra coal.</Text>
     <VoiceEntry GUID="f4ff96fd-bafb-c82b-afe1-c76f2787180d" AllowedEndingType="GoodOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>I'd call that mildly inconvenient.
-Whatever.</Text>
+          <Text>Das würde ich als leicht ärgerlich bezeichnen.
+Egal.</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>I'll allow it</Text>
+          <Text>Ich erlaube es.</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
@@ -4331,22 +4331,22 @@ Whatever.</Text>
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>The green
-Is in wrong place</Text>
+          <Text>Das Grün
+Ist an der falschen Stelle</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>That's a match!</Text>
+          <Text>Das passt!</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="0280dcd5-8cd5-67b5-e9f3-c5163357950b" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Wanna see a magic trick?
-I'm gonna make this line disappear!</Text>
+          <Text>Willst du einen Zaubertrick sehen?
+Ich werde diese Linie verschwinden lassen!</Text>
         </VoiceSubtitles>
         <VoiceSubtitles Index="1">
-          <Text>Aaaaaaaaaaand...</Text>
+          <Text>Uuuuuuuund...</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -4354,34 +4354,34 @@ I'm gonna make this line disappear!</Text>
     <VoiceEntry GUID="4d0e3b70-0f79-a76f-f41e-229ae5131d79" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>...you ruined it.
-Fantastic.</Text>
+          <Text>...du hast es ruiniert.
+Fantastisch.</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>Villainous</Text>
+          <Text>Böse</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="8aa16c49-675f-6850-98e9-2f12693eb17c" AllowedEndingType="GoodOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>...ta-daa! It's...
-it's gone.</Text>
+          <Text>...ta-daa! Es ist...
+es ist weg.</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Magic</Text>
+          <Text>Magie</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="ee114191-af47-853d-7992-290420793bce" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Now there's only ONE place to put it,
-as opposed to five in the last puzzle. Make an effort.</Text>
+          <Text>Jetzt gibt es nur EINEN Ort, um es hinzulegen,
+im Gegensatz zu fünf in der letzten Aufgabe. Gib dir Mühe.</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -4389,8 +4389,8 @@ as opposed to five in the last puzzle. Make an effort.</Text>
     <VoiceEntry GUID="e6ee54fd-60fe-51fc-cfd5-baccd7c4b98a" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>If you managed with five crayons,
-this line will be no problem for you.</Text>
+          <Text>Wenn du es mit fünf Buntstiften geschafft hast,
+wird diese Zeile kein Problem für dich sein.</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -4398,8 +4398,8 @@ this line will be no problem for you.</Text>
     <VoiceEntry GUID="a6b71006-7760-6f8e-2318-7e761c34770a" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Quick! Raise your hands!
-We're gonna do a little stretch-up! Don't touch anything!</Text>
+          <Text>Schnell! Hebt eure Hände!
+Wir machen ein kleines Aufwärmen! Berührt nichts!</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -4407,33 +4407,33 @@ We're gonna do a little stretch-up! Don't touch anything!</Text>
     <VoiceEntry GUID="3875a412-292d-ad6b-051b-bfb53d0452d9" AllowedEndingType="MonsterOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>You just needed to sit there and do &lt;b&gt;nothing!&lt;/b&gt;</Text>
+          <Text>Du musstest einfach nur sitzen bleiben und &lt;b&gt;nichts tun!&lt;/b&gt;</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>Wasted
-(w1.5)Opportunity</Text>
+          <Text>Verschwendete
+(w1.5)Gelegenheit</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="6bda04fa-9b5e-7ae5-d151-cbee22c0bdc0" AllowedEndingType="GoodOnly">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Thank you for your cooperation</Text>
+          <Text>Vielen Dank für deine Kooperation</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Player 17
-Wins</Text>
+          <Text>Spieler 17
+gewinnt</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="287a5fc2-cdc8-dce6-ec89-a077215a478a" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Negative A BILLION POINTS!</Text>
+          <Text>Negative EINE MILLIARDE PUNKTE!</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -4441,7 +4441,7 @@ Wins</Text>
     <VoiceEntry GUID="a4289de0-97bb-54ab-799e-10e2b93a4ead" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>You just had to touch the mouse didn't you?</Text>
+          <Text>Du musstest das Maus berühren, oder?</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -4450,22 +4450,22 @@ Wins</Text>
       <Subtitles />
       <EndingList>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="True">
-          <Text>Game over</Text>
+          <Text>Spiel vorbei</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text> +50 points</Text>
+          <Text>+50 Punkte</Text>
         </VoiceEnding>
         <VoiceEnding CanBeRndEnding="False" MonsterEnding="False">
-          <Text>Next level
-Unlocked</Text>
+          <Text>Nächstes Level 
+freigeschaltet</Text>
         </VoiceEnding>
       </EndingList>
     </VoiceEntry>
     <VoiceEntry GUID="c7b4e44a-8751-ca87-637e-b73ef0a9149f" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Mouse click on chopsticks! Boom! There, I told ya.
-Now do it!</Text>
+          <Text>Mausklick auf Essstäbchen! Boom! Da hast du es gehört.
+Jetzt mach es!</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
@@ -4473,8 +4473,8 @@ Now do it!</Text>
     <VoiceEntry GUID="72c1faca-d0fd-2522-c605-7345072f034e" AllowedEndingType="None">
       <Subtitles>
         <VoiceSubtitles Index="0">
-          <Text>Increasing the difficulty!
-You'll need &lt;b&gt;one&lt;/b&gt; click to solve this!</Text>
+          <Text>Erhöhe den Schwierigkeitsgrad!
+Du wirst &lt;b&gt;einen&lt;/b&gt; Klick brauchen, um dies zu lösen!</Text>
         </VoiceSubtitles>
       </Subtitles>
       <EndingList />
